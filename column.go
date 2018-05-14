@@ -11,7 +11,7 @@ import (
 	"time"
 	"unsafe"
 
-	"bitbucket.org/phiggins/db2cli/api"
+	"bitbucket.org/sweetchill/db2cli/api"
 )
 
 type BufferLen api.SQLLEN

@@ -5,11 +5,12 @@
 package db2cli
 
 import (
-	"bitbucket.org/phiggins/db2cli/api"
 	"database/sql/driver"
 	"fmt"
 	"strings"
 	"unsafe"
+
+	"bitbucket.org/sweetchill/db2cli/api"
 )
 
 func IsError(ret api.SQLRETURN) bool {

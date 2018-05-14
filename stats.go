@@ -5,9 +5,10 @@
 package db2cli
 
 import (
-	"bitbucket.org/phiggins/db2cli/api"
 	"fmt"
 	"sync"
+
+	"bitbucket.org/sweetchill/db2cli/api"
 )
 
 type Stats struct {
