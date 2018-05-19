@@ -9,7 +9,7 @@ package db2cli
 import (
 	"database/sql"
 
-	"bitbucket.org/sweetchill/db2cli/api"
+	"github.com/SweetChill/db2cli/api"
 )
 
 var drv Driver
