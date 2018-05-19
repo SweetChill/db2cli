@@ -8,7 +8,7 @@ import (
 	"database/sql/driver"
 	"io"
 
-	"bitbucket.org/sweetchill/db2cli/api"
+	"github.com/SweetChill/db2cli/api"
 )
 
 type Rows struct {

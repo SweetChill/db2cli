@@ -7,7 +7,7 @@ package db2cli
 import (
 	"fmt"
 
-	"bitbucket.org/sweetchill/db2cli/api"
+	"github.com/SweetChill/db2cli/api"
 )
 
 func ToHandleAndType(handle interface{}) (h api.SQLHANDLE, ht api.SQLSMALLINT) {

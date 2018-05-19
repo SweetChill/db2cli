@@ -10,7 +10,7 @@ import (
 	"time"
 	"unsafe"
 
-	"bitbucket.org/sweetchill/db2cli/api"
+	"github.com/SweetChill/db2cli/api"
 )
 
 type Parameter struct {

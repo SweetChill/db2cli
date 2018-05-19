@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	"bitbucket.org/sweetchill/db2cli/api"
+	"github.com/SweetChill/db2cli/api"
 )
 
 // TODO(brainman): see if I could use SQLExecDirect anywhere

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"bitbucket.org/sweetchill/db2cli/api"
+	"github.com/SweetChill/db2cli/api"
 )
 
 func IsError(ret api.SQLRETURN) bool {
